@@ -2,6 +2,8 @@
 
 > A COVID-19 survival machine learning predictor using the dataset from Kaggle to tell you whether you will be live or dead based on your gender and age.
 
+I only managed to find a dataset that fit in my simple model at [Kaggle](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset). The dataset only update until February 2020.
+
 <p align="left">
   <img src="assets/screenshot.png" width="auto" height="auto"
 </p>
