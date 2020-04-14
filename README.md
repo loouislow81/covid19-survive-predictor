@@ -3,7 +3,7 @@
 > A COVID-19 survival machine learning predictor using the dataset from Kaggle to tell you whether you will be live or dead based on your gender and age.
 
 <p align="left">
-  <img src="assets/screenshot.png" width="450" height="auto"
+  <img src="assets/screenshot.png" width="500" height="auto"
 </p>
 
 ### _setup
