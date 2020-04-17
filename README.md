@@ -5,7 +5,7 @@
 I only managed to find a dataset that fit in my simple model at [Kaggle](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset). The dataset only update until February 2020.
 
 <p align="left">
-  <img src="assets/screenshot.png" width="auto" height="auto"
+  <img src="assets/screenshot.png" width="auto" height="auto">
 </p>
 
 ### _setup
